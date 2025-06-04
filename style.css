@@ -1,0 +1,62 @@
+h1{
+    color:green;
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2{
+    color: blue;
+    font-family:Helvetica, sans-serif;
+    text-align: right;
+}
+
+h3{
+    font-family:Comic Sans,Comic Sans MS,cursive;
+}
+
+p{
+    text-weight: 800;
+    text-decoration: none;
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #2695a6;
+}
+
+
+
+th{
+    font-weight: 800;
+    background-color: #2695a6;
+    color:white ;
+}
+
+tr.alt td{
+    background-color: #9AEFFC;
+}
+
+ul{
+    list-style-image: url(images/pointer-icon.png);
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+
+#menu-bar a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: aquamarine;
+    color: white;
+
+}
